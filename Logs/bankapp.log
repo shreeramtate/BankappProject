@@ -1,0 +1,190 @@
+2025-02-06 22:07:49,473 : INFO :test_url_001:  Testing basic site url
+2025-02-06 22:07:49,550 : INFO :test_url_001:  Entering base page url: https://apps.credence.in 
+2025-02-06 22:08:03,512 : INFO :test_url_001:  Base Url test case is passed
+2025-02-06 22:10:37,198 : WARNING :_process_logs:  The chromedriver version (132.0.6834.110) detected in PATH at C:\Webdrivers\chromedriver.exe might not be compatible with the detected chrome version (133.0.6943.53); currently, chromedriver 133.0.6943.53 is recommended for chrome 133.*, so it is advised to delete the driver in PATH and retry
+2025-02-06 22:10:37,477 : WARNING :_process_logs:  The chromedriver version (132.0.6834.110) detected in PATH at C:\Webdrivers\chromedriver.exe might not be compatible with the detected chrome version (133.0.6943.53); currently, chromedriver 133.0.6943.53 is recommended for chrome 133.*, so it is advised to delete the driver in PATH and retry
+2025-02-06 22:11:01,786 : INFO :test_login_002:  Login Page Url test case
+2025-02-06 22:11:01,786 : INFO :test_login_002:  Login Page url :https://apps.credence.in/login.html
+2025-02-06 22:11:01,790 : INFO :test_url_001:  Testing basic site url
+2025-02-06 22:11:01,790 : INFO :test_url_001:  Entering base page url: https://apps.credence.in 
+2025-02-06 22:11:07,669 : INFO :test_signup_page_003:  Testing Sign Up URL
+2025-02-06 22:11:07,670 : INFO :test_signup_page_003:  Checking Sign up URL https://apps.credence.in/user.html
+2025-02-06 22:11:20,820 : INFO :test_signup_page_003:  Entering usernamesawhneyojas
+2025-02-06 22:11:22,363 : INFO :test_url_001:  Base Url test case is passed
+2025-02-06 22:11:30,103 : INFO :test_signup_page_003:  Entering Password 'Admin@123'
+2025-02-06 22:11:31,391 : INFO :test_signup_page_003:  Entering Password Email address zdora@example.org
+2025-02-06 22:11:33,109 : INFO :test_signup_page_003:  Entering Phone number 5760181326
+2025-02-06 22:11:40,765 : INFO :test_login_002:  Login Page Url test case is passed
+2025-02-06 22:11:46,575 : INFO :test_signup_page_003:  Checking User sign up Page title
+2025-02-06 22:11:46,602 : INFO :test_signup_page_003:  Sign up title Page successfully verified
+2025-02-07 07:08:14,774 : WARNING :_process_logs:  The chromedriver version (132.0.6834.110) detected in PATH at C:\Webdrivers\chromedriver.exe might not be compatible with the detected chrome version (133.0.6943.53); currently, chromedriver 133.0.6943.53 is recommended for chrome 133.*, so it is advised to delete the driver in PATH and retry
+2025-02-07 07:08:14,774 : WARNING :_process_logs:  The chromedriver version (132.0.6834.110) detected in PATH at C:\Webdrivers\chromedriver.exe might not be compatible with the detected chrome version (133.0.6943.53); currently, chromedriver 133.0.6943.53 is recommended for chrome 133.*, so it is advised to delete the driver in PATH and retry
+2025-02-07 07:28:30,170 : WARNING :_process_logs:  The chromedriver version (132.0.6834.110) detected in PATH at C:\Webdrivers\chromedriver.exe might not be compatible with the detected chrome version (133.0.6943.53); currently, chromedriver 133.0.6943.53 is recommended for chrome 133.*, so it is advised to delete the driver in PATH and retry
+2025-02-07 07:28:34,532 : INFO :test_url_001:  Testing basic site url
+2025-02-07 07:28:34,532 : INFO :test_url_001:  Entering base page url: https://apps.credence.in 
+2025-02-07 07:28:46,666 : INFO :test_url_001:  Base Url test case is passed
+2025-02-07 07:30:20,315 : WARNING :_process_logs:  The chromedriver version (132.0.6834.110) detected in PATH at C:\Webdrivers\chromedriver.exe might not be compatible with the detected chrome version (133.0.6943.53); currently, chromedriver 133.0.6943.53 is recommended for chrome 133.*, so it is advised to delete the driver in PATH and retry
+2025-02-07 07:30:23,245 : INFO :test_login_002:  Login Page Url test case
+2025-02-07 07:30:23,245 : INFO :test_login_002:  Login Page url :https://apps.credence.in/login.html
+2025-02-07 07:30:39,348 : INFO :test_login_002:  Login Page Url test case is passed
+2025-02-07 07:34:44,882 : WARNING :_process_logs:  The chromedriver version (132.0.6834.110) detected in PATH at C:\Webdrivers\chromedriver.exe might not be compatible with the detected chrome version (133.0.6943.53); currently, chromedriver 133.0.6943.53 is recommended for chrome 133.*, so it is advised to delete the driver in PATH and retry
+2025-02-07 07:34:48,262 : INFO :test_url_001:  Testing basic site url
+2025-02-07 07:34:48,263 : INFO :test_url_001:  Entering base page url: https://apps.credence.in 
+2025-02-07 07:34:54,522 : INFO :test_url_001:  Base Url test case is passed
+2025-02-07 07:34:55,302 : INFO :test_login_002:  Login Page Url test case
+2025-02-07 07:34:55,302 : INFO :test_login_002:  Login Page url :https://apps.credence.in/login.html
+2025-02-07 07:34:58,445 : INFO :test_login_002:  Login Page Url test case is passed
+2025-02-07 07:34:59,574 : INFO :test_signup_page_003:  Testing Sign Up URL
+2025-02-07 07:34:59,575 : INFO :test_signup_page_003:  Checking Sign up URL https://apps.credence.in/user.html
+2025-02-07 07:35:00,066 : INFO :test_signup_page_003:  Entering usernamecmangat
+2025-02-07 07:35:00,288 : INFO :test_signup_page_003:  Entering Password 'Admin@123'
+2025-02-07 07:35:00,404 : INFO :test_signup_page_003:  Entering Password Email address sankarwridesh@example.com
+2025-02-07 07:35:01,571 : INFO :test_signup_page_003:  Entering Phone number 5469061471
+2025-02-07 07:35:09,776 : INFO :test_signup_page_003:  Checking User sign up Page title
+2025-02-07 07:35:09,800 : INFO :test_signup_page_003:  Sign up title Page successfully verified
+2025-02-07 20:11:21,001 : WARNING :_process_logs:  The chromedriver version (132.0.6834.110) detected in PATH at C:\Webdrivers\chromedriver.exe might not be compatible with the detected chrome version (133.0.6943.53); currently, chromedriver 133.0.6943.53 is recommended for chrome 133.*, so it is advised to delete the driver in PATH and retry
+2025-02-07 20:11:42,684 : INFO :test_url_001:  Testing basic site url
+2025-02-07 20:11:42,685 : INFO :test_url_001:  Entering base page url: https://apps.credence.in 
+2025-02-07 20:11:57,832 : INFO :test_url_001:  Base Url test case is passed
+2025-02-07 20:11:59,058 : INFO :test_login_002:  Login Page Url test case
+2025-02-07 20:11:59,059 : INFO :test_login_002:  Login Page url :https://apps.credence.in/login.html
+2025-02-07 20:12:26,758 : INFO :test_login_002:  Login Page Url test case is passed
+2025-02-07 20:12:28,334 : INFO :test_signup_page_003:  Testing Sign Up URL
+2025-02-07 20:12:28,334 : INFO :test_signup_page_003:  Checking Sign up URL https://apps.credence.in/user.html
+2025-02-07 20:12:29,282 : INFO :test_signup_page_003:  Entering usernamekotawarhi
+2025-02-07 20:12:29,456 : INFO :test_signup_page_003:  Entering Password 'Admin@123'
+2025-02-07 20:12:29,633 : INFO :test_signup_page_003:  Entering Password Email address tara28@example.com
+2025-02-07 20:12:30,837 : INFO :test_signup_page_003:  Entering Phone number 04583493671
+2025-02-07 20:12:40,908 : INFO :test_signup_page_003:  Checking User sign up Page title
+2025-02-07 20:12:40,928 : INFO :test_signup_page_003:  Sign up title Page successfully verified
+2025-02-08 08:15:09,041 : WARNING :_process_logs:  The chromedriver version (132.0.6834.110) detected in PATH at C:\Webdrivers\chromedriver.exe might not be compatible with the detected chrome version (133.0.6943.59); currently, chromedriver 133.0.6943.53 is recommended for chrome 133.*, so it is advised to delete the driver in PATH and retry
+2025-02-08 08:15:18,806 : INFO :test_url_001:  Testing basic site url
+2025-02-08 08:15:18,807 : INFO :test_url_001:  Entering base page url: https://apps.credence.in 
+2025-02-08 08:15:25,628 : INFO :test_url_001:  Base Url test case is passed
+2025-02-08 08:15:26,557 : INFO :test_login_002:  Login Page Url test case
+2025-02-08 08:15:26,557 : INFO :test_login_002:  Login Page url :https://apps.credence.in/login.html
+2025-02-08 08:15:32,264 : INFO :test_login_002:  Login Page Url test case is passed
+2025-02-08 08:15:33,622 : INFO :test_signup_page_003:  Testing Sign Up URL
+2025-02-08 08:15:33,622 : INFO :test_signup_page_003:  Checking Sign up URL https://apps.credence.in/user.html
+2025-02-08 08:15:34,158 : INFO :test_signup_page_003:  Entering usernamebaraleta
+2025-02-08 08:15:34,416 : INFO :test_signup_page_003:  Entering Password 'Admin@123'
+2025-02-08 08:15:34,549 : INFO :test_signup_page_003:  Entering Password Email address manyapingle@example.com
+2025-02-08 08:15:35,692 : INFO :test_signup_page_003:  Entering Phone number 916475504874
+2025-02-08 08:15:43,698 : INFO :test_signup_page_003:  Checking User sign up Page title
+2025-02-08 08:15:43,712 : INFO :test_signup_page_003:  Sign up title Page successfully verified
+2025-02-08 08:22:20,193 : WARNING :_process_logs:  The chromedriver version (132.0.6834.110) detected in PATH at C:\Webdrivers\chromedriver.exe might not be compatible with the detected chrome version (133.0.6943.59); currently, chromedriver 133.0.6943.53 is recommended for chrome 133.*, so it is advised to delete the driver in PATH and retry
+2025-02-08 08:22:22,222 : INFO :test_url_001:  Testing basic site url
+2025-02-08 08:22:22,223 : INFO :test_url_001:  Entering base page url: https://apps.credence.in 
+2025-02-08 08:22:35,478 : INFO :test_url_001:  Base Url test case is passed
+2025-02-08 08:22:36,811 : INFO :test_login_002:  Login Page Url test case
+2025-02-08 08:22:36,812 : INFO :test_login_002:  Login Page url :https://apps.credence.in/login.html
+2025-02-08 08:22:43,435 : INFO :test_login_002:  Login Page Url test case is passed
+2025-02-08 08:22:44,604 : INFO :test_signup_page_003:  Testing Sign Up URL
+2025-02-08 08:22:44,605 : INFO :test_signup_page_003:  Checking Sign up URL https://apps.credence.in/user.html
+2025-02-08 08:22:45,175 : INFO :test_signup_page_003:  Entering usernamevvyas
+2025-02-08 08:22:45,590 : INFO :test_signup_page_003:  Entering Password 'Admin@123'
+2025-02-08 08:22:45,895 : INFO :test_signup_page_003:  Entering Password Email address hpurohit@example.com
+2025-02-08 08:22:47,152 : INFO :test_signup_page_003:  Entering Phone number 08170559428
+2025-02-09 00:25:59,087 : WARNING :_process_logs:  The chromedriver version (132.0.6834.110) detected in PATH at C:\Webdrivers\chromedriver.exe might not be compatible with the detected chrome version (133.0.6943.59); currently, chromedriver 133.0.6943.53 is recommended for chrome 133.*, so it is advised to delete the driver in PATH and retry
+2025-02-09 00:26:10,929 : INFO :test_url_001:  Testing basic site url
+2025-02-09 00:26:10,929 : INFO :test_url_001:  Entering base page url: https://apps.credence.in 
+2025-02-09 00:26:36,023 : INFO :test_url_001:  Base Url test case is passed
+2025-02-09 00:26:36,330 : INFO :test_login_002:  Login Page Url test case
+2025-02-09 00:26:36,331 : INFO :test_login_002:  Login Page url :https://apps.credence.in/login.html
+2025-02-09 00:27:03,788 : INFO :test_login_002:  Login Page Url test case is passed
+2025-02-09 00:27:04,340 : INFO :test_signup_page_003:  Testing Sign Up URL
+2025-02-09 00:27:04,341 : INFO :test_signup_page_003:  Checking Sign up URL https://apps.credence.in/user.html
+2025-02-09 00:27:04,866 : INFO :test_signup_page_003:  Entering usernamebahadurjitdada
+2025-02-09 00:27:05,027 : INFO :test_signup_page_003:  Entering Password 'Admin@123'
+2025-02-09 00:27:05,151 : INFO :test_signup_page_003:  Entering Password Email address anjalidutta@example.org
+2025-02-09 00:27:06,332 : INFO :test_signup_page_003:  Entering Phone number 4561246177
+2025-02-09 00:27:20,337 : INFO :test_signup_page_003:  Checking User sign up Page title
+2025-02-09 00:27:20,351 : INFO :test_signup_page_003:  Sign up title Page successfully verified
+2025-02-09 00:28:44,039 : WARNING :_process_logs:  The chromedriver version (132.0.6834.110) detected in PATH at C:\Webdrivers\chromedriver.exe might not be compatible with the detected chrome version (133.0.6943.59); currently, chromedriver 133.0.6943.53 is recommended for chrome 133.*, so it is advised to delete the driver in PATH and retry
+2025-02-09 00:28:45,735 : INFO :test_url_001:  Testing basic site url
+2025-02-09 00:28:45,735 : INFO :test_url_001:  Entering base page url: https://apps.credence.in 
+2025-02-09 00:28:56,558 : INFO :test_url_001:  Base Url test case is passed
+2025-02-09 00:28:56,833 : INFO :test_login_002:  Login Page Url test case
+2025-02-09 00:28:56,834 : INFO :test_login_002:  Login Page url :https://apps.credence.in/login.html
+2025-02-09 00:29:02,972 : INFO :test_login_002:  Login Page Url test case is passed
+2025-02-09 00:29:03,351 : INFO :test_signup_page_003:  Testing Sign Up URL
+2025-02-09 00:29:03,351 : INFO :test_signup_page_003:  Checking Sign up URL https://apps.credence.in/user.html
+2025-02-09 00:29:03,850 : INFO :test_signup_page_003:  Entering usernameshravyakhurana
+2025-02-09 00:29:04,106 : INFO :test_signup_page_003:  Entering Password 'Admin@123'
+2025-02-09 00:29:04,216 : INFO :test_signup_page_003:  Entering Password Email address osinghal@example.org
+2025-02-09 00:29:05,352 : INFO :test_signup_page_003:  Entering Phone number 913703791124
+2025-02-09 00:29:21,336 : INFO :test_signup_page_003:  Checking User sign up Page title
+2025-02-09 00:29:21,350 : INFO :test_signup_page_003:  Sign up title Page successfully verified
+2025-02-19 00:21:22,171 : WARNING :_process_logs:  The chromedriver version (132.0.6834.110) detected in PATH at C:\Webdrivers\chromedriver.exe might not be compatible with the detected chrome version (133.0.6943.98); currently, chromedriver 133.0.6943.98 is recommended for chrome 133.*, so it is advised to delete the driver in PATH and retry
+2025-02-19 00:21:29,107 : INFO :test_url_001:  Testing basic site url
+2025-02-19 00:21:29,108 : INFO :test_url_001:  Entering base page url: https://apps.credence.in 
+2025-02-19 00:21:36,954 : INFO :test_url_001:  Base Url test case is passed
+2025-02-19 00:21:37,719 : INFO :test_login_002:  Login Page Url test case
+2025-02-19 00:21:37,719 : INFO :test_login_002:  Login Page url :https://apps.credence.in/login.html
+2025-02-19 00:21:43,291 : INFO :test_login_002:  Login Page Url test case is passed
+2025-02-19 00:21:44,383 : INFO :test_signup_page_003:  Testing Sign Up URL
+2025-02-19 00:21:44,384 : INFO :test_signup_page_003:  Checking Sign up URL https://apps.credence.in/user.html
+2025-02-19 00:21:45,098 : INFO :test_signup_page_003:  Entering usernamesolankiharsh
+2025-02-19 00:21:45,285 : INFO :test_signup_page_003:  Entering Password 'Admin@123'
+2025-02-19 00:21:45,434 : INFO :test_signup_page_003:  Entering Password Email address raipanini@example.net
+2025-02-19 00:21:46,682 : INFO :test_signup_page_003:  Entering Phone number 913412803755
+2025-02-19 00:21:58,156 : INFO :test_signup_page_003:  Checking User sign up Page title
+2025-02-19 00:21:58,173 : INFO :test_signup_page_003:  Sign up title Page successfully verified
+2025-02-19 00:26:02,122 : INFO :test_url_001:  Testing basic site url
+2025-02-19 00:26:02,549 : INFO :test_url_001:  Entering base page url: https://apps.credence.in 
+2025-02-19 00:26:12,751 : INFO :test_signup_page_003:  Testing Sign Up URL
+2025-02-19 00:26:12,752 : INFO :test_signup_page_003:  Checking Sign up URL https://apps.credence.in/user.html
+2025-02-19 00:26:36,034 : INFO :test_signup_page_003:  Entering usernameozasai
+2025-02-19 00:26:41,968 : INFO :test_url_001:  Base Url test case is passed
+2025-02-19 00:26:46,694 : INFO :test_signup_page_003:  Entering Password 'Admin@123'
+2025-02-19 00:26:48,645 : INFO :test_signup_page_003:  Entering Password Email address chamelilad@example.com
+2025-02-19 00:26:50,533 : INFO :test_signup_page_003:  Entering Phone number 07538950441
+2025-02-19 00:27:10,401 : INFO :test_signup_page_003:  Checking User sign up Page title
+2025-02-19 00:27:10,418 : INFO :test_signup_page_003:  Sign up title Page successfully verified
+2025-02-19 00:34:29,309 : INFO :test_login_002:  Login Page Url test case
+2025-02-19 00:34:29,310 : INFO :test_login_002:  Login Page url :https://apps.credence.in/login.html
+2025-02-19 00:34:37,863 : INFO :test_signup_page_003:  Testing Sign Up URL
+2025-02-19 00:34:37,863 : INFO :test_signup_page_003:  Checking Sign up URL https://apps.credence.in/user.html
+2025-02-19 00:34:38,703 : INFO :test_url_001:  Testing basic site url
+2025-02-19 00:34:38,703 : INFO :test_url_001:  Entering base page url: https://apps.credence.in 
+2025-02-19 00:34:59,897 : INFO :test_url_001:  Base Url test case is passed
+2025-02-19 00:35:00,305 : INFO :test_signup_page_003:  Entering usernamegkhare
+2025-02-19 00:35:00,692 : INFO :test_signup_page_003:  Entering Password 'Admin@123'
+2025-02-19 00:35:01,292 : INFO :test_signup_page_003:  Entering Password Email address aadi56@example.net
+2025-02-19 00:35:02,541 : INFO :test_signup_page_003:  Entering Phone number 0547039510
+2025-02-19 00:35:07,478 : INFO :test_login_002:  Login Page Url test case is passed
+2025-02-19 00:35:18,321 : INFO :test_signup_page_003:  Checking User sign up Page title
+2025-02-19 00:35:18,339 : INFO :test_signup_page_003:  Sign up title Page successfully verified
+2025-03-15 17:36:10,733 : WARNING :_process_logs:  The chromedriver version (132.0.6834.110) detected in PATH at C:\Webdrivers\chromedriver.exe might not be compatible with the detected chrome version (134.0.6998.89); currently, chromedriver 134.0.6998.88 is recommended for chrome 134.*, so it is advised to delete the driver in PATH and retry
+2025-03-15 17:43:37,044 : WARNING :_process_logs:  The chromedriver version (132.0.6834.110) detected in PATH at C:\Webdrivers\chromedriver.exe might not be compatible with the detected chrome version (134.0.6998.89); currently, chromedriver 134.0.6998.88 is recommended for chrome 134.*, so it is advised to delete the driver in PATH and retry
+2025-03-15 19:01:11,499 : WARNING :_process_logs:  The chromedriver version (132.0.6834.110) detected in PATH at C:\Webdrivers\chromedriver.exe might not be compatible with the detected chrome version (134.0.6998.89); currently, chromedriver 134.0.6998.88 is recommended for chrome 134.*, so it is advised to delete the driver in PATH and retry
+2025-03-15 19:01:11,592 : WARNING :_process_logs:  The chromedriver version (132.0.6834.110) detected in PATH at C:\Webdrivers\chromedriver.exe might not be compatible with the detected chrome version (134.0.6998.89); currently, chromedriver 134.0.6998.88 is recommended for chrome 134.*, so it is advised to delete the driver in PATH and retry
+2025-03-15 19:01:11,993 : WARNING :_process_logs:  The chromedriver version (132.0.6834.110) detected in PATH at C:\Webdrivers\chromedriver.exe might not be compatible with the detected chrome version (134.0.6998.89); currently, chromedriver 134.0.6998.88 is recommended for chrome 134.*, so it is advised to delete the driver in PATH and retry
+2025-03-15 19:12:06,171 : INFO :test_url_001:  Testing basic site url
+2025-03-15 19:12:06,172 : INFO :test_url_001:  Entering base page url: https://apps.credence.in 
+2025-03-15 19:12:10,244 : INFO :test_url_001:  Base Url test case is passed
+2025-03-15 19:12:10,620 : INFO :test_login_002:  Login Page Url test case
+2025-03-15 19:12:10,621 : INFO :test_login_002:  Login Page url :https://apps.credence.in/login.html
+2025-03-15 19:12:14,242 : INFO :test_login_002:  Login Page Url test case is passed
+2025-03-15 19:12:15,020 : INFO :test_signup_page_003:  Testing Sign Up URL
+2025-03-15 19:12:15,021 : INFO :test_signup_page_003:  Checking Sign up URL https://apps.credence.in/user.html
+2025-03-15 19:12:15,737 : INFO :test_signup_page_003:  Entering usernamepatlanakul
+2025-03-15 19:12:15,908 : INFO :test_signup_page_003:  Entering Password 'Admin@123'
+2025-03-15 19:12:16,052 : INFO :test_signup_page_003:  Entering Password Email address ria52@example.com
+2025-03-15 19:12:17,236 : INFO :test_signup_page_003:  Entering Phone number 914730543907
+2025-03-15 19:12:25,519 : INFO :test_signup_page_003:  Checking User sign up Page title
+2025-03-15 19:12:25,537 : INFO :test_signup_page_003:  Sign up title Page successfully verified
+2025-03-15 20:32:13,981 : INFO :test_url_001:  Testing basic site url
+2025-03-15 20:32:14,006 : INFO :test_url_001:  Entering base page url: https://apps.credence.in 
+2025-03-15 20:32:18,275 : INFO :test_url_001:  Base Url test case is passed
+2025-03-15 20:32:18,997 : INFO :test_login_002:  Login Page Url test case
+2025-03-15 20:32:18,997 : INFO :test_login_002:  Login Page url :https://apps.credence.in/login.html
+2025-03-15 20:32:22,421 : INFO :test_login_002:  Login Page Url test case is passed
+2025-03-15 20:32:23,753 : INFO :test_signup_page_003:  Testing Sign Up URL
+2025-03-15 20:32:23,754 : INFO :test_signup_page_003:  Checking Sign up URL https://apps.credence.in/user.html
+2025-03-15 20:32:24,401 : INFO :test_signup_page_003:  Entering usernameusahota
+2025-03-15 20:32:24,629 : INFO :test_signup_page_003:  Entering Password 'Admin@123'
+2025-03-15 20:32:24,769 : INFO :test_signup_page_003:  Entering Password Email address fbhatti@example.org
+2025-03-15 20:32:25,921 : INFO :test_signup_page_003:  Entering Phone number 5661885269
+2025-03-15 20:32:34,136 : INFO :test_signup_page_003:  Checking User sign up Page title
+2025-03-15 20:32:34,155 : INFO :test_signup_page_003:  Sign up title Page successfully verified
